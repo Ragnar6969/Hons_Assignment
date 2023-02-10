@@ -6,5 +6,6 @@
 ## VS code
 - Simple react snippets
 - Prettier
+- formatOnSave
 
 
